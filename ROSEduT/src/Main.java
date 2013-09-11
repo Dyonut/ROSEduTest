@@ -8,5 +8,5 @@
  * @author IONUT
  */
 public class Main {
-    
+    int i = 4;
 }
